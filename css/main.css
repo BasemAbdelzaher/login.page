@@ -1,0 +1,72 @@
+body {
+    background-image: url(..//header.jpg);
+    background-size: cover;    
+}
+
+svg {
+    font-size: 40px;
+    color: #bdbdbd;
+    }
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    color: #bdbdbd;
+}
+div .login {
+    width: 400px;
+}
+
+.login .svg1  {
+    position: absolute;
+    margin-top: 20px ;
+    margin-left: 126px;
+    min-width: 40px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-weight: 300;
+    background: none;
+    border: none;
+    background: #524f4f;
+    border-radius: 20px;
+}
+button {
+    width: 350px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 500;
+    background: none;
+    border: none;
+    background: #2a2929;
+    border-radius: 20px;
+    color: white;
+    margin-top: 35px;
+    margin-left: 20px;
+
+}
+
+::placeholder {
+    color: white;
+  }
+
+.login .svg2  {
+    position: absolute;
+    margin-left: 137px;
+    margin-top: 70px;
+}
+
+p {
+    margin-left: 23px;
+    padding: 10px;
+    color: antiquewhite;
+}
+a {
+    text-decoration: none;
+}
+
+span {
+    margin-left: 150px;
+}
